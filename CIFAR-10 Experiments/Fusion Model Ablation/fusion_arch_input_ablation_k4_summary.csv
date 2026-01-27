@@ -1,0 +1,4 @@
+Method,Coverage (%),Avg set size
+Fusion LR [$\Pi;p$],90.31 (0.36),3.40 (0.06)
+Fusion 2-layer MLP [$\Pi;p$],90.37 (0.47),3.33 (0.05)
+Fusion LR [$p$ only],90.33 (0.37),3.41 (0.06)

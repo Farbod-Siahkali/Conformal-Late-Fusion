@@ -1,0 +1,5 @@
+Score,K,Metric,Conformal Fusion,Min p-Value,Fisher,Adjusted Fisher,Weighted Avg (learned)
+cross_entropy,3,Coverage (%),90.43 (0.70),91.86 (0.92),90.88 (0.91),90.05 (0.72),99.27 (0.23)
+hinge,3,Coverage (%),90.43 (0.70),91.86 (0.92),90.88 (0.91),90.05 (0.72),99.27 (0.23)
+margin,3,Coverage (%),90.35 (0.65),91.80 (1.50),90.99 (1.14),89.98 (0.66),99.31 (0.13)
+raps,3,Coverage (%),90.61 (0.67),91.95 (0.56),91.25 (0.71),90.38 (0.80),99.32 (0.20)
